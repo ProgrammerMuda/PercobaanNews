@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Berita Hangat</string>
+    <string name="loading">Loading…</string>
+    <string name="google_status_fmt">Google User: %s</string>
+    <string name="firebase_status_fmt">Firebase User: %s</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="share">share</string>
+    <string name="search">Search</string>
+    <string name="no_data_here">NO DATA</string>
+
+</resources>

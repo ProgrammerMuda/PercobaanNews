@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "445554051545",
+    "firebase_url": "https://loginnews-f9a70.firebaseio.com",
+    "project_id": "loginnews-f9a70",
+    "storage_bucket": "loginnews-f9a70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445554051545:android:7507c854ae799271",
+        "android_client_info": {
+          "package_name": "news.id.id.percobaannews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445554051545-cparm0o377k10iibiganopnk2k0vdi2k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "news.id.id.percobaannews",
+            "certificate_hash": "f879e2c2ae320241b5b1a327a6e80e855d55e9ee"
+          }
+        },
+        {
+          "client_id": "445554051545-osjlb01ul5jd3ulhegjh0vrp3qll2jun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEMK_dhOF34EhhYL4IjMDon2GMMSy-gD0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "445554051545-osjlb01ul5jd3ulhegjh0vrp3qll2jun.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
